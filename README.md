@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Thiago Fernandes 👋
 
-<!--
-**thiagofov/thiagofov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of BuscarCanais, a B2B SaaS platform focused on Commercial Intelligence.
 
-Here are some ideas to get you started:
+I build software that helps companies discover, qualify and manage partnership opportunities through automation, data analysis and AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Main Project
+
+### BuscarCanais
+
+A Commercial Intelligence platform designed to help businesses identify, qualify and manage content creators and partnership opportunities.
+
+Current focus:
+
+- Product Engineering
+- Commercial Intelligence
+- CRM
+- AI Automation
+- Full Stack Development
+
+## 💻 Tech Stack
+
+- Python
+- FastAPI
+- React
+- TypeScript
+- SQLite
+- SQL
+- REST APIs
+- Git
+- GitHub
+
+## 🌱 Currently Learning
+
+- Software Architecture
+- Product Engineering
+- AI Applications
+- Scalable SaaS Systems
+
+## 📫 Contact
+
+📧 thiagoofv@outlook.com
+
+🔗 LinkedIn
+
+linkedin.com/in/thiago-fernandes-721751204
